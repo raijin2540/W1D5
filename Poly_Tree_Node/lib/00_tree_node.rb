@@ -63,5 +63,5 @@ class PolyTreeNode
 
    nil
  end
-
+#queue = [g]
 end
